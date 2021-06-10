@@ -11,7 +11,7 @@
     <properties>
         <alpn-boot-version>8.1.13.v20181017</alpn-boot-version>
 <!--        <jetty.version>9.3.3.v20150827</jetty.version>-->
-        <jetty.version>9.3.7.v20160115</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <!--        <jetty.version>9.4.19.v20190610</jetty.version>-->
         <!--        <version>9.4.19.v20190610</version>-->
     </properties>
